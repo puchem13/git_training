@@ -1,2 +1,4 @@
-Hi!! I'm Bob. I've been here for a while now.
+Hi there!! I'm Bob. I've been here for a while now.
 New line on Bob.
+Hello there, new line for Bob.
+Changes for fixup.
